@@ -128,8 +128,8 @@
         <mxCell id="iiTEztLCNNFZLTMeGl9U-40" value="Jika Pilih Hapus,Konfirmasi Hapus,lalu Data Dihapus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="680" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iiTEztLCNNFZLTMeGl9U-42" value="Jika User Tidak Melakukan Aksi Apapun, Maka Daftar Task Tetap Tampil Tanpa Ada&amp;nbsp; Perubahan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="760" width="186" height="60" as="geometry" />
+        <mxCell id="iiTEztLCNNFZLTMeGl9U-42" value="Jika User Tidak Melakukan Aksi Apapun, Maka Daftar Task Tetap Tampil Tanpa Ada&amp;nbsp; Perubahan&lt;br&gt;User Juga Bisa Melihat Kata-Kata Motivasi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="284" y="780" width="276" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
