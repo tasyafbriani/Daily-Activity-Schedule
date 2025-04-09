@@ -1,40 +1,61 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Halaman-1" id="VnFaiHF79ZNp7soHgrhJ">
-    <mxGraphModel dx="874" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d6EfrRPF_oOuterpkTXw-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="154.46" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="120.23" y="280" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="184.46" y="159.94" width="454.85" height="298.75" as="geometry" />
+          <mxGeometry x="120.23" y="201.54" width="579.77" height="340.46" as="geometry" />
         </mxCell>
-        <mxCell id="d6EfrRPF_oOuterpkTXw-3" value="Daily Activity Schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="88.12" height="30" as="geometry" />
+        <mxCell id="d6EfrRPF_oOuterpkTXw-3" value="Daily Activity Schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFE599;strokeColor=#d6b656;gradientColor=none;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="349.06" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-5" value="Create New Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344.06" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="344.06" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-6" value="view Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344.06" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="344.06" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-7" value="Edit Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344.06" y="334.23" width="120" height="80" as="geometry" />
+          <mxGeometry x="344.06" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-9" value="Delete Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="344.06" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="d6EfrRPF_oOuterpkTXw-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="200" as="sourcePoint" />
-            <mxPoint x="190" y="260" as="targetPoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d6EfrRPF_oOuterpkTXw-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="d6EfrRPF_oOuterpkTXw-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="260" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="sourcePoint" />
             <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d6EfrRPF_oOuterpkTXw-16" value="View Inspirational Text" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.06" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d6EfrRPF_oOuterpkTXw-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.016;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d6EfrRPF_oOuterpkTXw-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="410" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d6EfrRPF_oOuterpkTXw-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.079;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d6EfrRPF_oOuterpkTXw-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="450" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d6EfrRPF_oOuterpkTXw-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.016;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d6EfrRPF_oOuterpkTXw-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
